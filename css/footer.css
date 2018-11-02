@@ -1,0 +1,18 @@
+.footer{
+	height: 32px;
+	width: 100%;
+	background: ;
+	
+}
+.footer>div{
+	display: flex;
+	justify-content: center;
+}
+.footer a{
+	display: block;
+	width: 103px;
+	height: 32px;
+
+	margin-left: 10px;
+	
+}

@@ -1,0 +1,62 @@
+.qw{
+	width: 1000px;
+	height: 480px;
+	margin-left: 150px;
+	margin-top: auto;
+	background-color: ;
+	/*display: none;*/
+	float: left;
+	position: absolute;
+	top:0px;
+	left:40px;
+}
+.nlcd{
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.nlbg{
+	width: 800px;
+	height: 30px;
+	background-color: ;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	
+}
+.nlxx{
+	width: 700px;
+	height: 35px;
+	background-color: ;
+	margin-top: 10px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.jdgb{
+	width: 93px;
+	height: 24px;
+	background-color: ;
+	margin-left: 20px;
+	display: flex;
+	color: gray;
+	font-size: 12px;
+	text-align: 1;
+}
+.jiadian{
+	display: flex;
+	width: 50px;
+	height: 19px;
+	background-color: white;
+	color: gray;
+	font-size: 12px;
+}
+.leimu{
+	display: flex;
+	width: 50px;
+	height: 19px;
+	background-color: white;
+	color: gray;
+	font-size: 12px;
+}
